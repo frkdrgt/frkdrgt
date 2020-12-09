@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Faruk</h1>
 <h3 align="center">software developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=frkdrgt" alt="frkdrgt" /> </p>
 
 - 👨‍💻 All of my projects are available at [http://farukdurgut.com](http://farukdurgut.com)
 
-- 📝 I regulary write articles on [http://faruk.online](http://faruk.online)
+- 📝 I (regularly) write articles on [http://faruk.online](http://faruk.online)
 
 - 📫 How to reach me **frkdrgt@gmail.com**
 
