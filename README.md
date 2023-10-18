@@ -3,7 +3,6 @@
 
 
 - 👨‍💻 Some of my projects are available at [http://farukdurgut.com](http://farukdurgut.com)
-- 
 - 📫 How to reach me **frkdrgt@gmail.com**
 
 
