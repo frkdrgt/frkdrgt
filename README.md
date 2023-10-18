@@ -2,10 +2,8 @@
 <h3 align="center">software developer</h3>
 
 
-- 👨‍💻 All of my projects are available at [http://farukdurgut.com](http://farukdurgut.com)
-
-- 📝 I (regularly) write articles on [http://faruk.online](http://faruk.online)
-
+- 👨‍💻 Some of my projects are available at [http://farukdurgut.com](http://farukdurgut.com)
+- 
 - 📫 How to reach me **frkdrgt@gmail.com**
 
 
